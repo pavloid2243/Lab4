@@ -1,0 +1,10 @@
+C:\Users\fedtu\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\fedtu\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\fedtu\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\fedtu\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
